@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 88,
-  "latestVersionName": "4.0.48",
+  "latestVersionCode": 90,
+  "latestVersionName": "4.0.50",
   "packageName": "com.bydion.tools",
-  "apkUrl": "https://github.com/Dionatan1780/bydion-updates/releases/download/v4.0.48/BYDION-4.0.48.apk",
-  "sha256": "47049cd79424f9a934e288b2d1c23f667d6cb218b65ebba226756b100c37ecc2",
-  "size": 7448169,
-  "notes": "Atualizações do BYDION pelo GitHub, com aviso ao abrir e consulta manual. Catálogo FilmTV 4.0.2 e Netflix 9.87.1 atualizado. Permissões e acessos, liberar espaço e conexão ADB alternativa experimental."
+  "apkUrl": "https://github.com/Dionatan1780/bydion-updates/releases/download/v4.0.50/BYDION-4.0.50.apk",
+  "sha256": "5bcf2530c0cb34b031cd9e17596e6dc055dbef4de7d17b65debfdca36a5867bb",
+  "size": 7468951,
+  "notes": "Botões e cartões refinados, margem inferior para a barra da central, retorno automático ao catálogo após aprovação, detalhes da loja e configuração ADB compactos. Instalação pelo Android com alternativa explícita via ADB. Dados preservados na atualização."
 }
