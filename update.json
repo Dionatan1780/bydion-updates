@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 90,
-  "latestVersionName": "4.0.50",
+  "latestVersionCode": 94,
+  "latestVersionName": "4.0.54",
   "packageName": "com.bydion.tools",
-  "apkUrl": "https://github.com/Dionatan1780/bydion-updates/releases/download/v4.0.50/BYDION-4.0.50.apk",
-  "sha256": "5bcf2530c0cb34b031cd9e17596e6dc055dbef4de7d17b65debfdca36a5867bb",
-  "size": 7468951,
-  "notes": "Botões e cartões refinados, margem inferior para a barra da central, retorno automático ao catálogo após aprovação, detalhes da loja e configuração ADB compactos. Instalação pelo Android com alternativa explícita via ADB. Dados preservados na atualização."
+  "apkUrl": "https://github.com/Dionatan1780/bydion-updates/releases/download/v4.0.54/BYDION-4.0.54.apk",
+  "sha256": "f9f7aeafa101dade41c52f2fe36d1866feb5016eb03f381d8e2fe2cf29873c65",
+  "size": 7505815,
+  "notes": "Instalar todos / selecionar dentro de cada categoria da loja, com confirmação, fila por ADB autorizado e cancelamento. Catálogo com Velo Play 1.4.0 e categorias corrigidas de Netflix e FilmTV. Preparação opcional de janelas livres e aviso de pendência fechável. Atualização do aplicativo principal com a assinatura original, mantendo seus dados."
 }
